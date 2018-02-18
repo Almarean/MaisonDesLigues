@@ -31,7 +31,7 @@
             <param name="UneTableOuVue"> nom de la table ou la vue dont on veut récupérer le contenu</param>
             <returns>un objet de type datatable contenant les données récupérées</returns>
         </member>
-        <member name="M:BaseDeDonnees.Bdd.ParamCommunsNouveauxParticipants(Oracle.DataAccess.Client.OracleCommand,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+        <member name="M:BaseDeDonnees.Bdd.ParamCommunsNouveauxParticipants(Oracle.ManagedDataAccess.Client.OracleCommand,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
             <summary>
             méthode privée permettant de valoriser les paramètres d'un objet commmand communs aux licenciés, bénévoles et intervenants
             </summary>
@@ -61,7 +61,7 @@
             <param name="pNumeroLicence">numéro de licence du bénévole ou null</param>
             <param name="pDateBenevolat">collection des id des dates où le bénévole sera présent</param>
         </member>
-        <member name="M:BaseDeDonnees.Bdd.ParamsSpecifiquesIntervenant(Oracle.DataAccess.Client.OracleCommand,System.Int16,System.String)">
+        <member name="M:BaseDeDonnees.Bdd.ParamsSpecifiquesIntervenant(Oracle.ManagedDataAccess.Client.OracleCommand,System.Int16,System.String)">
             <summary>
             méthode privée permettant de valoriser les paramètres d'un objet commmand spécifiques intervenants
             </summary>
