@@ -79,3 +79,23 @@ F:\Documents\Visual Studio 2017\Projects\MaisonDesLigues\MaisonDesLigues\bin\Deb
 F:\Documents\Visual Studio 2017\Projects\MaisonDesLigues\MaisonDesLigues\bin\Debug\ComposantNuite.pdb
 F:\Documents\Visual Studio 2017\Projects\MaisonDesLigues\MaisonDesLigues\obj\x86\Debug\MaisonDesLigues.exe.manifest
 F:\Documents\Visual Studio 2017\Projects\MaisonDesLigues\MaisonDesLigues\obj\x86\Debug\MaisonDesLigues.application
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\bin\Debug\MaisonDesLigues.exe.config
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\bin\Debug\MaisonDesLigues.exe.manifest
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\bin\Debug\MaisonDesLigues.application
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\bin\Debug\MaisonDesLigues.XML
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\bin\Debug\MaisonDesLigues.exe
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\bin\Debug\MaisonDesLigues.pdb
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\bin\Debug\ComposantNuite.dll
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\bin\Debug\Oracle.DataAccess.dll
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\bin\Debug\ComposantNuite.pdb
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\obj\x86\Debug\MaisonDesLigues.FrmLogin.resources
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\obj\x86\Debug\MaisonDesLigues.FrmPrincipale.resources
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\obj\x86\Debug\MaisonDesLigues.Properties.Resources.resources
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\obj\x86\Debug\MaisonDesLigues.csproj.GenerateResource.Cache
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\obj\x86\Debug\MaisonDesLigues.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\obj\x86\Debug\MaisonDesLigues.exe.manifest
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\obj\x86\Debug\MaisonDesLigues.application
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\obj\x86\Debug\MaisonDesLigues.exe
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\obj\x86\Debug\MaisonDesLigues.pdb
+C:\Users\David\Source\Repos\MaisonDesLigues\MaisonDesLigues\obj\x86\Debug\MaisonDesLigues.csprojResolveAssemblyReference.cache

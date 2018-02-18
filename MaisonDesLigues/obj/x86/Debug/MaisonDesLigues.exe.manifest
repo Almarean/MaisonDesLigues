@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MaisonDesLigues.exe" size="761856">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MaisonDesLigues.exe" size="760320">
       <assemblyIdentity name="MaisonDesLigues" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>xtbNNZSD9ENMRY29GLDNns0gPOA=</dsig:DigestValue>
+        <dsig:DigestValue>l7erq9AUqLmk84tV+su2JNn1sl4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -90,13 +90,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="MaisonDesLigues.exe.config" size="2149">
+  <file name="MaisonDesLigues.exe.config" size="2148">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>ez1y8Cl+4C0Qp+Df1gtw15aMh+E=</dsig:DigestValue>
+      <dsig:DigestValue>hcVHOkk7LdGT6ibX5kmITU7yZ1k=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Mdl.ico" size="197594">
