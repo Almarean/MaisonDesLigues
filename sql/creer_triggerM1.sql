@@ -155,3 +155,24 @@ exception
     raise_application_error(-20204,  'Il ne peut y avoir plus de 6 ateliers');
 end trgbi_atelier;
 /
+
+/*
+Trigger de contrôle des dates de vacation.
+*/
+CREATE OR REPLACE TRIGGER heure_vacation
+AFTER
+  UPDATE OR INSERT ON Vacation
+FOR EACH ROW
+DECLARE
+  heureD vacation.heureDebut%type;
+  heureF vacation.heureFin%type;
+  exHeureFinInferieure Exception;
+BEGIN
+  SELECT heureDebut, heureFin INTO heureD, heureF FROM Vacation;
+  IF heureD > heureF
+    THEN RAISE exHeureFinInferieure;
+  END IF;
+EXCEPTION
+  WHEN exHeureFinInferieure
+    THEN raise_application_error(-20000, 'La date de fin doit être obligatoirement inférieure à la date de début de la vacation.');
+END;
